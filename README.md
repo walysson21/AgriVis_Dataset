@@ -12,20 +12,20 @@ de relva ou floresta (classe 5).
 - Água (Áreas alagadas, lagos, rios e etc.) (classe 7) e 
 - Áreas de habitação (classe 8) que são casas ou construções artificiais nas regiões das fazendas.
 
-### Download
+## Download
 Disponível para download [neste link.](https://drive.google.com/drive/folders/1B1EUAo5_-6Kdl_az3tkn-hICF720wQJY?usp=sharing)
 
-### Região de aquisição das imagens
+## Região de aquisição das imagens
 a) Região de Aquisição. b) Imagem inteira. c) 4 blocos de imagem.
 <br/>
 <img src="images/area_aquisicao_imagens2.png" width="800" title="a) Região de Aquisição. b) Imagem inteira. c) 4 blocos de imagem."> 
 
-### Concentração de plantações na região de aquisição
+## Concentração de plantações na região de aquisição
 Concentração de plantação de soja na Região de Estudo.
 <br/>
 <img src="images/area_de_estudo2.PNG" width="500" title="Concentração de plantação de soja na Região de Estudo.">
 
-### Anotação das imagens
+## Anotação das imagens
 Exemplos de anotação das imagens com o Labelme. As imagens à esquerda
 são de uma área de vegetação sem plantação e apresentam as classes Relva
 ou Floresta e Água. As imagens à direita são de uma área de plantação e
