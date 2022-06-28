@@ -9,10 +9,12 @@ Disponível para download [neste link.](https://drive.google.com/drive/folders/1
 
 ### Região de aquisição das imagens
 a) Região de Aquisição. b) Imagem inteira. c) 4 blocos de imagem.
+<br/>
 <img src="images/area_aquisicao_imagens2.png" width="800" title="a) Região de Aquisição. b) Imagem inteira. c) 4 blocos de imagem."> 
 
 ### Concentração de plantações na região de aquisição
 Concentração de plantação de soja na Região de Estudo.
+<br/>
 <img src="images/area_de_estudo2.PNG" width="500" title="Concentração de plantação de soja na Região de Estudo.">
 
 ### Anotação das imagens
@@ -20,6 +22,7 @@ Exemplos de anotação das imagens com o Labelme. As imagens à esquerda
 são de uma área de vegetação sem plantação e apresentam as classes Relva
 ou Floresta e Água. As imagens à direita são de uma área de plantação e
 apresentam todas as demais classes.
+<br/>
 <img src="images/marcacoes.PNG" width="600" title="Exemplos de anotação das imagens com o Labelme. As imagens à esquerda
 são de uma área de vegetação sem plantação e apresentam as classes Relva
 ou Floresta e Água. As imagens à direita são de uma área de plantação e
@@ -28,6 +31,7 @@ apresentam todas as demais classes.">
 
 a), b), c) e d) são imagens em RGB do conjunto de dados e e), f), g) e h) são,
 respectivamente, suas anotações.
+<br/>
 <img src="images/imagens_marcadas.png" width="800" title="a), b), c) e d) são imagens em RGB do conjunto de dados e e), f), g) e h) são,
 respectivamente, suas anotações.">
 
