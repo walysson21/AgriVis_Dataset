@@ -1,8 +1,16 @@
 # AgriVis Dataset
 Dataset com imagens do satélite Sentinel-2 de regiões de plantações do Norderte Brasileiro e aberto para colaboração
 
-
-## Dataset
+O conjunto de dados possui 8 classes:
+- Área de preparo de plantação (classe 1) que se trata da região de solo preparada para receber o plantio, 
+- Plantação jovem (classe 2) que é o estágio inicial da plantação que mescla áreas verdes com áreas ainda de solo,
+- Plantação madura (classe 3) que são regiões onde a plantação está desenvolvida. Julgouse
+- Os caminhos que normalmente delimitam as plantações foram nomeadas como Linhas de divisão das plantações (classe 4). 
+- A quinta classe representa as áreas de vegetação naturais, as áreas verdes que não são cultivadas, chamadas de Áreas
+de relva ou floresta (classe 5). 
+- As demais classes são Áreas de solo ou rochas (classe 6),
+- Água (Áreas alagadas, lagos, rios e etc.) (classe 7) e 
+- Áreas de habitação (classe 8) que são casas ou construções artificiais nas regiões das fazendas.
 
 ### Download
 Disponível para download [neste link.](https://drive.google.com/drive/folders/1B1EUAo5_-6Kdl_az3tkn-hICF720wQJY?usp=sharing)
