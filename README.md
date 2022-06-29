@@ -45,7 +45,7 @@ respectivamente, suas anotações.">
 
 ## Citações:
 International Conference on Image Analysis and Processing <br/>
-Image Analysis and Processing – ICIAP 2022 pp 346–357, Disponível em https://link.springer.com/chapter/10.1007/978-3-031-06427-2_29.
+[Image Analysis and Processing – ICIAP 2022 pp 346–357.](https://link.springer.com/chapter/10.1007/978-3-031-06427-2_29)
 ```BibTex
 @inproceedings{dos2022two,
   title={A Two-Stage U-Net to Estimate the Cultivated Area of Plantations},
